@@ -1,3 +1,5 @@
+# Version v2.5.0
+
 ## Test environments
 
 * local R installation, R 3.6.2
@@ -6,17 +8,4 @@
 
 ## R CMD check results
 
-0 errors | 0 warnings | 1 note
-
-```
-* checking CRAN incoming feasibility ... NOTE
-Maintainer: 'Hongyuan Jia <hongyuan.jia@bears-berkeley.sg>'
-
-Found the following (possibly) invalid URLs:
-  URL: (https://doi.org/10.5281/zenodo.2537945)
-    From: README.md
-    Message: Invalid URI scheme
-```
-
-This links to Zenodo link which works fine. The link format is copied from the
-Zenodo page. So I assume it is valid and keep it as it is.
+0 errors | 0 warnings | 0 note
