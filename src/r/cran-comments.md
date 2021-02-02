@@ -16,5 +16,4 @@
 
 ## Comments to CRAN maintainers
 
-In this resubmission, I fixed the DOI link in the DESCRIPTION file and the URLs
-in the README.md
+In this resubmission, I fixed URLs in the README.md.

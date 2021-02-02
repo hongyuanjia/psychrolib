@@ -394,3 +394,4 @@ src/r/R/RcppExports.R
 src/r/man
 src/r/LICENSE
 src/r/README.md
+.Rproj.user

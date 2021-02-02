@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/psychrolib_logo.svg" alt="PsychroLib Logo" height="80" width="80"> 
+<img src="../../assets/psychrolib_logo.svg" alt="PsychroLib Logo" height="80" width="80"> 
 
 <!-- omit in toc -->
 # PsychroLib
@@ -40,7 +40,7 @@ When using PsychroLib, please cite the software summary paper and software versi
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [![DOI](https://joss.theoj.org/papers/10.21105/joss.01137/status.svg)](https://doi.org/10.21105/joss.01137) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2537945.svg)](https://doi.org/10.5281/zenodo.2537945) |
 
-*please make sure to cite the same version you are using with the correct DOI. For a list of all available versions see see [more on Zenodo]((https://doi.org/10.5281/zenodo.2537945)).
+*please make sure to cite the same version you are using with the correct DOI. For a list of all available versions see see [more on Zenodo](https://doi.org/10.5281/zenodo.2537945).
 
 
 ## Contributing
