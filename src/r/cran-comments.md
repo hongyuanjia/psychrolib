@@ -1,4 +1,4 @@
-# Version v2.5.1
+# Version v2.5.2
 
 ## Test environments
 
@@ -13,7 +13,3 @@
 ## Reverse dependencies
 
 0 errors | 0 warnings | 0 notes
-
-## Comments to CRAN maintainers
-
-In this resubmission, I fixed URLs in the README.md.
